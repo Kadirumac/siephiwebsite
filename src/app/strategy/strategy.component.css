@@ -1,0 +1,75 @@
+#video{
+  width: 100%;
+}
+section.strategySection  div.main_image h1{
+  font-size: 85px;
+  padding-top: 150px;
+}
+
+
+section.strategySection {
+  width: 1346px;
+  position: relative;
+  margin:0;
+  background: ;
+  margin-bottom: 50px;
+
+}
+section.strategySection h1, section.strategySection h2 {
+  text-align: center;
+  font-size: 45px;
+}
+section.strategySection img{
+  width: 663px;
+  margin-top: 50px;
+  border: 1px solid #000000;
+  padding: 10px;
+  box-sizing: border-box;
+  float: left;
+}
+
+section.strategySection article{
+  width: 663px;
+  margin-top: 50px;
+  float: right;
+}
+section.strategySection article div.iconBox {
+  width: 100px;
+  height: 100px;
+  margin: auto;
+}
+.background-cover{
+  display: block;
+width: 100%;
+height: 100%;
+margin: auto;
+overflow: hidden;
+object-fit: cover;
+object-position: center;
+
+}
+section.strategySection article p{
+  margin-top: 25px;
+text-align:justify;
+}
+section.strategySection article .category__Text {
+    margin:20px 50px;
+    padding-right: 445px;
+    width: 255px;
+    font-size: 25px;
+}
+section.strategySection article .category__list{
+    float:right;
+    width: 235px;
+    height: auto;
+    margin:10px 0;
+    font-size: 25px;
+    background:#1b9a9a;
+
+
+}
+section.strategySection article .category__list ul li{
+padding: 10px 15px;
+list-style-type:lower-greek;
+list-style-position: inside;
+}

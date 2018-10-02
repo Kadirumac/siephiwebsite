@@ -22,6 +22,8 @@
     "@angular/router": "^6.1.0",
     "core-js": "^2.5.4",
     "rxjs": "~6.2.0",
+    "videogular": "^2.2.1",
+    "videogular-themes-default": "^1.4.4",
     "zone.js": "~0.8.26"
   },
   "devDependencies": {
